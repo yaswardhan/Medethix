@@ -1,5 +1,6 @@
 // added new comment for Commit 1
 // added new comment for Commit 2
+// added new comment for Commit 3
 
 #import <Foundation/Foundation.h>
 
